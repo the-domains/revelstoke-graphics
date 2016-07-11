@@ -1,0 +1,28 @@
+name: Revelstoke Graphics
+favicon: null
+layout_spectrum: 0.6920173233374953
+typography_spectrum: 0.21030045743100345
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8386390060186386
+  lightness: 0.7065118530299515
+  saturation: 0.3751044829841703
+  rhythmicContrast: 0.09507684549316764
+purpose: []
